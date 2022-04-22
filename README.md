@@ -16,7 +16,7 @@
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/612752899734241290/967198705423908864/picasion.com_cb57c97bc2646c68b58813d24c471809.gif">
+  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/612752899734241290/967205796104523786/picasion.com_bca9686632ba3cc9d3a9bdb5e6f2a597.gif">
 </div>
  
  ##
