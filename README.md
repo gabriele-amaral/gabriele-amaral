@@ -1,7 +1,7 @@
 ### ✨ Oii! Eu sou a Gabriele Amaral, estudante de programação e tecnologia! 💻
 🖋️ _Também sou ilustradora e estou sempre ampliando meus conhecimentos da área!_ 🎨
 
-<div>
+<<div align="center">
   <a href="https://github.com/gabriele-amaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriele-amaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-amaral&layout=compact&langs_count=7&theme=dracula"/>
